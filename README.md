@@ -3,5 +3,5 @@
 
 
 1. Types, Variables and Logic
-2.Control Flow
-3. 
+2. Control Flow
+3. Loops
